@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pypa/pyproject-hooks/commit/184c9f56a87ede1276a5b33f5024204adb792cd2",
       "git:hexsha": "184c9f56a87ede1276a5b33f5024204adb792cd2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.3.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.3.3",
+      "repolex:parsedAt": "2026-10-10T23:13:57.803449+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pypa/pyproject-hooks/commit/dd22ef9f53d93245726f10eded63d11d8e855e26",
