@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "pyproject-hooks",
+  "versions": [
+    {
+      "commit": "184c9f56a87ede1276a5b33f5024204adb792cd2",
+      "tag": "v1.3.3",
+      "parsed_at": "2026-10-10T23:13:57.803977+00:00"
+    }
+  ]
+}
