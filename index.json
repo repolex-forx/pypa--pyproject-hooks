@@ -3,6 +3,11 @@
   "repo": "pyproject-hooks",
   "versions": [
     {
+      "commit": "4b7c6d113fb89b755d762a88712c8a6873cddd47",
+      "tag": "v1.2.0",
+      "parsed_at": "2026-11-22T00:43:57.585100+00:00"
+    },
+    {
       "commit": "184c9f56a87ede1276a5b33f5024204adb792cd2",
       "tag": "v1.3.3",
       "parsed_at": "2026-10-10T23:13:57.803977+00:00"
